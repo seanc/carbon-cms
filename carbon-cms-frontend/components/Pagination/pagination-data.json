@@ -1,0 +1,58 @@
+{
+  "collections": [
+    {
+      "name": "esse ut ad",
+      "__meta__": {
+        "item_count": 70
+      }
+    },
+    {
+      "name": "ad velit cupidatat nulla",
+      "__meta__": {
+        "item_count": 101
+      }
+    },
+    {
+      "name": "consectetur",
+      "__meta__": {
+        "item_count": 37
+      }
+    },
+    {
+      "name": "eiusmod",
+      "__meta__": {
+        "item_count": 116
+      }
+    },
+    {
+      "name": "tempor et",
+      "__meta__": {
+        "item_count": 125
+      }
+    }
+  ],
+  "exampleCollectionList": {
+    "total": 5,
+    "lastPage": 5,
+    "page": 2,
+    "data": {
+      "collections": [
+        {
+          "name": "Products",
+          "meta": {
+            "item_count": 150
+          }
+        },
+        {
+          "name": "Posts",
+          "meta": {
+            "item_count": 10
+          }
+        }
+      ]
+    }
+  },
+  "exampleCollectionListMultiple": [
+    
+  ]
+}
